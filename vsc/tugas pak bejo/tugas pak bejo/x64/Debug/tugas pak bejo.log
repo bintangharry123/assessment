@@ -1,0 +1,3 @@
+﻿  tugas pak bejo.cpp
+D:\vsc\tugas pak bejo\tugas pak bejo\tugas pak bejo.cpp(11,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  tugas pak bejo.vcxproj -> D:\vsc\tugas pak bejo\x64\Debug\tugas pak bejo.exe

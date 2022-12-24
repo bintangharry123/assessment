@@ -1,0 +1,6 @@
+﻿  yhyasu.cpp
+D:\vsc\yhyasu\yhyasu\yhyasu.cpp(11,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\vsc\yhyasu\yhyasu\yhyasu.cpp(28,19): warning C4129: 'Y': unrecognized character escape sequence
+D:\vsc\yhyasu\yhyasu\yhyasu.cpp(28,19): warning C4129: 'H': unrecognized character escape sequence
+D:\vsc\yhyasu\yhyasu\yhyasu.cpp(28,19): warning C4129: 'i': unrecognized character escape sequence
+  yhyasu.vcxproj -> D:\vsc\yhyasu\x64\Debug\yhyasu.exe

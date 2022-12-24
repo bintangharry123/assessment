@@ -1,0 +1,2 @@
+﻿  fibonacii.cpp
+LINK : fatal error LNK1168: cannot open D:\vsc\fibonacii\x64\Debug\fibonacii.exe for writing
